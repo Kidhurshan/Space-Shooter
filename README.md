@@ -22,7 +22,7 @@ Welcome to **Space Boy Shooter**, a fun 2D shooter game created using Unity! �
 3. Press Play ▶️ to start playing!
 
 ![image](https://github.com/user-attachments/assets/16709069-8058-48f7-bd20-c0007fdd7200)
-![image](https://github.com/user-attachments/assets/1558a8cf-554b-46f9-9846-af93921a7ebd)
+
 
 
 Enjoy playing **Space Boy Shooter**! 🚀
