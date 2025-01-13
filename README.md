@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/61c41d19-b32f-4fdb-b881-f2fb2302be92)
 # 🚀 Space Boy Shooter
 
 Welcome to **Space Boy Shooter**, a fun 2D shooter game created using Unity! 🎮
@@ -21,9 +21,8 @@ Welcome to **Space Boy Shooter**, a fun 2D shooter game created using Unity! �
 2. Open the project in Unity (2021.3 or newer).  
 3. Press Play ▶️ to start playing!
 
-## 📜 License
-This game is licensed under the MIT License. 📝
+![image](https://github.com/user-attachments/assets/16709069-8058-48f7-bd20-c0007fdd7200)
+![image](https://github.com/user-attachments/assets/1558a8cf-554b-46f9-9846-af93921a7ebd)
 
----
 
 Enjoy playing **Space Boy Shooter**! 🚀
