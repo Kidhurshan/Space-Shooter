@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61c41d19-b32f-4fdb-b881-f2fb2302be92)
+
 # 🚀 Space Boy Shooter
 
 Welcome to **Space Boy Shooter**, a fun 2D shooter game created using Unity! 🎮
