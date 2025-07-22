@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://kidhurshan.itch.io/space-boy">
-    <img src="https://github.com/user-attachments/assets/2da9073a-1eda-4034-a3fc-fba62110b3f9" alt="Play Space Boy Shooter" width="400" style="margin: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/2da9073a-1eda-4034-a3fc-fba62110b3f9" alt="Play Space Boy Shooter" width="800" style="margin: 10px;"/>
   </a>
 </p>
 <h2 align="center">🎥 Project Demo</h2>
@@ -31,8 +31,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7f485816-9abb-4246-90dc-43082c79f73e" alt="Main Gameplay Screenshot" width="400" style="margin: 10px;"/>
   <img src="https://github.com/user-attachments/assets/c8f9b92e-b343-422a-8121-e0d2bbbc319d" alt="Player Profile or Character Screenshot" width="400" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/a3066c52-28a4-4418-be9a-f6c3ae3de015" alt="Player Profile or Character Screenshot" width="400" style="margin: 10px;"/>
 </p>
-
 
 *Above: Various in-game scenes and character visuals.*
 
