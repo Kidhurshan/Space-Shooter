@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kidhurshan.itch.io/space-boy">
-    <img src="https://img.shields.io/badge/Play-Game-brightgreen?style=for-the-badge&logo=itch.io" alt="Play Game" width="300" />
+    <img src="https://github.com/user-attachments/assets/3e5b6c02-8864-4001-b100-603ca9f0ddd7" alt="Play Game" width="900" />
   </a>
 </p>
 
