@@ -2,16 +2,15 @@
 
 <p align="center">
   <a href="https://kidhurshan.itch.io/space-boy">
-    <img src="https://github.com/user-attachments/assets/3e5b6c02-8864-4001-b100-603ca9f0ddd7" alt="Play Game" width="900" />
+    <img src="https://img.shields.io/badge/Play-Game-brightgreen?style=for-the-badge&logo=itch.io" alt="Play Game" width="300" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://kidhurshan.itch.io/space-boy">
-    <img src="https://github.com/user-attachments/assets/67ce37ec-c5b9-48b7-a566-5964ef7993c8" alt="Play Space Boy Shooter" width="400" style="margin: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/2da9073a-1eda-4034-a3fc-fba62110b3f9" alt="Play Space Boy Shooter" width="400" style="margin: 10px;"/>
   </a>
 </p>
-
 <h2 align="center">🎥 Project Demo</h2>
 <p align="center">
   <a href="https://youtu.be/ji2YZU1Bc6g">
